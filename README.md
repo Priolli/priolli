@@ -1,6 +1,6 @@
 ### Hi there, I'm Bernardo Priolli Fonseca! 👋
 
-🚀 Passionate about **AI, Data Science, UX/CX, Energy/Eletricity Market, Mobility industry, Strategic Plan, and Fintech Innovation**. Currently building **Betsavior** at Microsoft Founders Program, and exploring **Data Analytics & Business Intelligence** at my University.
+🚀 Passionate about **AI, Data Science, UX/CX, Energy/Eletricity Market, Mobility industry, Strategic Plan, and Fintech Innovation**. Currently building **Betsavior**, and exploring **Data Analytics & Business Intelligence** at my University.
 
 ---
 
